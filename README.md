@@ -1,0 +1,2 @@
+# pipe
+jenkins/gradle test
